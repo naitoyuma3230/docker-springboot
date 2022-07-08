@@ -1,0 +1,5 @@
+/spring_prj/build/
+/spring_prj/bin/
+/spring_prj/.gradle/
+docker/mysql/data/
+docker/mysql/log/
